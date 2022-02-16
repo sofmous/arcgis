@@ -6,7 +6,8 @@
       "properties": {
         "area_name":"Άλσος Αιγάλεω",
         "area_id":"1",
-        "sourceURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Iera-odos-athens.jpg/320px-Iera-odos-athens.jpg"
+        "sourceURL":"https://cityview.com.gr/wp-content/uploads/2017/04/mparoutadiko.jpg"
+        
         
       },
       "geometry": {
@@ -18,7 +19,8 @@
       "type": "Feature",
       "properties": {
         "area_name":"Μουσείο Μικρασιατικού Πολιτισμού",
-        "area_id":"2"
+        "area_id":"2",
+        "sourceURL":"https://mikrasiatesaigaleo.files.wordpress.com/2016/05/mouseio-1.jpg"
         
       },
       "geometry": {
@@ -30,7 +32,8 @@
       "type": "Feature",
       "properties": {
         "area_name":"Ιερά Οδός",
-        "area_id":"3"
+        "area_id":"3",
+        "sourceURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Iera-odos-athens.jpg/320px-Iera-odos-athens.jpg"
         
       },
       "geometry": {

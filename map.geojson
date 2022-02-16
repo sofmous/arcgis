@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "area_name":"alsos",
+        "area_name":"Άλσος Αιγάλεω",
         "area_id":"1"
         
       },
@@ -16,7 +16,7 @@
     {
       "type": "Feature",
       "properties": {
-        "area_name":"mousio",
+        "area_name":"Μουσείο Μικρασιατικού Πολιτισμού",
         "area_id":"2"
         
       },
@@ -28,7 +28,7 @@
     {
       "type": "Feature",
       "properties": {
-        "area_name":"iera_odos",
+        "area_name":"Ιερά Οδός",
         "area_id":"3"
         
       },

@@ -1,1 +1,36 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[23.677167892456055,37.99840318885289]}},{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[23.679914474487305,37.99183365313853]}},{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[23.684291839599606,37.99869910003549]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Alsos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.99453674075309, 23.676800535614813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mousio_mikrasiatikou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.99913907647871, 23.686753059026625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "iera_odos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.9911376418599, 23.683119328542766]
+      }
+    }
+  ]
+}
+

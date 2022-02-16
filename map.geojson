@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "place": "Alsos"
+        "point": "alsos"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +14,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mousio_mikrasiatikou"
+        "point": "mousio_mikrasiatikou"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "iera_odos"
+        "point": "iera_odos"
       },
       "geometry": {
         "type": "Point",

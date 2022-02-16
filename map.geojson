@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "point": "alsos"
+        "pointid": "1"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +14,7 @@
     {
       "type": "Feature",
       "properties": {
-        "point": "mousio_mikrasiatikou"
+        "pointid": "2"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "point": "iera_odos"
+        "pointid": "3"
       },
       "geometry": {
         "type": "Point",

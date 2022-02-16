@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "pointid": "1"
+        
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +14,7 @@
     {
       "type": "Feature",
       "properties": {
-        "pointid": "2"
+        
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "pointid": "3"
+        
       },
       "geometry": {
         "type": "Point",

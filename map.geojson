@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "area_name":"alsos",
+        "area_id":"1",
         
       },
       "geometry": {
@@ -14,6 +16,8 @@
     {
       "type": "Feature",
       "properties": {
+        "area_name":"mousio",
+        "area_id":"2",
         
       },
       "geometry": {
@@ -24,6 +28,8 @@
     {
       "type": "Feature",
       "properties": {
+        "area_name":"iera_odos",
+        "area_id":"3",
         
       },
       "geometry": {

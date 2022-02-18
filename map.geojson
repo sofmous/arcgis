@@ -11,7 +11,7 @@
         
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [ 23.676800535614813,37.99453674075309]
       }
     },

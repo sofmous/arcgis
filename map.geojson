@@ -45,7 +45,7 @@
       "type": "Feature",
       "properties": {
       "area_name":"Πάρκο Τρίτση",
-        "area_id":"4",
+        "area_id":"4"
       
       },
       "geometry": {
@@ -60,7 +60,7 @@
       "type": "Feature",
       "properties": {
       "area_name":"Αττικός Ελαιώνας",
-        "area_id":"5",
+        "area_id":"5"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +74,7 @@
       "type": "Feature",
       "properties": {
         "area_name":"Πανεπιστήμιο Δυτικής Αττικής",
-        "area_id":"6",
+        "area_id":"6"
       
       },
       "geometry": {
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
       "area_name":"Πύργος Βασιλίσσης",
-        "area_id":"7",
+        "area_id":"7"
       },
       "geometry": {
         "type": "Point",
